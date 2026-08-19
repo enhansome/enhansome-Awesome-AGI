@@ -1,44 +1,31 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Frameworks and Platforms"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Agents"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 295095715,
+            "language": "TeX",
+            "last_commit": "2026-04-04T00:47:09Z",
+            "owner": "SHI-Yu-Zhe",
+            "repo": "awesome-agi-cocosci",
+            "stars": 393
+          },
+          "title": "awesome-agi-cocosci"
+        }
+      ],
       "title": "Papers, Dataset, Blogs, Courses and Lectures"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Datasets"
-    },
-    {
-      "description": "An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.",
-      "items": [],
-      "title": "awesome-agi-cocosci"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Websites"
-    },
-    {
-      "description": "Discover Dataleap the Upwork for AI Agents, where AutoGPTs are revolutionizing the gig economy\n",
-      "items": [],
-      "title": "The Marketplace for AI Agents"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:04:27.604Z",
+    "last_updated": "2026-08-19T12:06:25.659Z",
     "original_repository": "EmbraceAGI/Awesome-AGI",
+    "original_repository_id": 627646824,
     "original_repository_sha": "4d4f094c6693b45e11e28a8f53be765d841a9b6a",
     "enhanced_repository": "enhansome/enhansome-Awesome-AGI",
     "enhanced_repository_description": null,
