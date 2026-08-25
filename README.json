@@ -12,10 +12,10 @@
             "archived": false,
             "id": 614765452,
             "language": "Python",
-            "last_commit": "2026-08-25T06:00:03Z",
+            "last_commit": "2026-08-25T13:00:34Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186852
+            "stars": 186856
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-04-29T01:19:32Z",
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36305
+            "stars": 36304
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70008
+            "stars": 70016
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-09-02T09:07:21Z",
             "owner": "Vision-CAIR",
             "repo": "MiniGPT-4",
-            "stars": 25627
+            "stars": 25628
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21980
+            "stars": 21984
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-06-12T21:44:10Z",
             "owner": "a16z-infra",
             "repo": "ai-town",
-            "stars": 10386
+            "stars": 10388
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2025-05-14T10:15:10Z",
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 55121
+            "stars": 55120
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70008
+            "stars": 70016
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-08-24T06:58:46Z",
             "owner": "assafelovic",
             "repo": "gpt-researcher",
-            "stars": 29141
+            "stars": 29143
           }
         },
         {
@@ -453,10 +453,10 @@
             "archived": false,
             "id": 605673387,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:41:04Z",
+            "last_commit": "2026-08-25T13:04:59Z",
             "owner": "labring",
             "repo": "FastGPT",
-            "stars": 29442
+            "stars": 29447
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-04-15T11:59:09Z",
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 60614
+            "stars": 60626
           }
         }
       ],
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:16:20.806Z",
+    "last_updated": "2026-08-25T13:06:56.490Z",
     "original_repository": "EmbraceAGI/Awesome-AGI",
     "original_repository_id": 627646824,
     "original_repository_sha": "4d4f094c6693b45e11e28a8f53be765d841a9b6a",
