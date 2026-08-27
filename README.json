@@ -12,10 +12,10 @@
             "archived": false,
             "id": 614765452,
             "language": "Python",
-            "last_commit": "2026-08-27T10:50:11Z",
+            "last_commit": "2026-08-27T22:06:11Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186921
+            "stars": 186935
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-04-29T01:19:32Z",
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36301
+            "stars": 36300
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70062
+            "stars": 70069
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2025-07-29T13:44:13Z",
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25209
+            "stars": 25210
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-01-31T05:05:45Z",
             "owner": "yoheinakajima",
             "repo": "babyagi",
-            "stars": 22357
+            "stars": 22358
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2025-01-22T22:14:07Z",
             "owner": "TransformerOptimus",
             "repo": "SuperAGI",
-            "stars": 17662
+            "stars": 17663
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-07-28T05:57:41Z",
             "owner": "Josh-XT",
             "repo": "AGiXT",
-            "stars": 3212
+            "stars": 3214
           }
         },
         {
@@ -312,10 +312,10 @@
             "archived": false,
             "id": 615928156,
             "language": null,
-            "last_commit": "2026-08-27T09:09:15Z",
+            "last_commit": "2026-08-27T21:08:29Z",
             "owner": "enricoros",
             "repo": "big-AGI",
-            "stars": 7102
+            "stars": 7103
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21998
+            "stars": 22002
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-08-26T00:34:11Z",
             "owner": "a16z-infra",
             "repo": "ai-town",
-            "stars": 10392
+            "stars": 10397
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2025-05-14T10:15:10Z",
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 55119
+            "stars": 55118
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70062
+            "stars": 70069
           }
         },
         {
@@ -423,10 +423,10 @@
             "archived": false,
             "id": 639835356,
             "language": "Python",
-            "last_commit": "2026-08-24T06:58:46Z",
+            "last_commit": "2026-08-27T19:34:56Z",
             "owner": "assafelovic",
             "repo": "gpt-researcher",
-            "stars": 29171
+            "stars": 29175
           }
         },
         {
@@ -453,10 +453,10 @@
             "archived": false,
             "id": 605673387,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:48:53Z",
+            "last_commit": "2026-08-27T19:17:20Z",
             "owner": "labring",
             "repo": "FastGPT",
-            "stars": 29486
+            "stars": 29490
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-04-15T11:59:09Z",
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 60647
+            "stars": 60657
           }
         }
       ],
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:09.342Z",
+    "last_updated": "2026-08-27T22:12:47.994Z",
     "original_repository_info": {
       "archived": false,
       "id": 627646824,
