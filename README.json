@@ -12,11 +12,12 @@
             "archived": false,
             "id": 614765452,
             "language": "Python",
-            "last_commit": "2026-08-27T22:06:11Z",
+            "last_commit": "2026-08-28T19:28:51Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186935
-          }
+            "stars": 186963
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2025-04-29T01:19:32Z",
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36300
-          }
+            "stars": 36302
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70069
-          }
+            "stars": 70088
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2024-09-02T09:07:21Z",
             "owner": "Vision-CAIR",
             "repo": "MiniGPT-4",
-            "stars": 25626
-          }
+            "stars": 25625
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2025-07-29T13:44:13Z",
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25210
-          }
+            "stars": 25212
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-01-31T05:05:45Z",
             "owner": "yoheinakajima",
             "repo": "babyagi",
-            "stars": 22358
-          }
+            "stars": 22357
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -105,8 +111,9 @@
             "last_commit": "2025-01-22T22:14:07Z",
             "owner": "TransformerOptimus",
             "repo": "SuperAGI",
-            "stars": 17663
-          }
+            "stars": 17666
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "smol-ai",
             "repo": "developer",
             "stars": 12186
-          }
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "Significant-Gravitas",
             "repo": "Auto-GPT-Plugins",
             "stars": 3827
-          }
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "zabirauf",
             "repo": "AutoGPT.js",
             "stars": 1024
-          }
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "thecookingsenpai",
             "repo": "autogpt-gui",
             "stars": 1500
-          }
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "agiresearch",
             "repo": "OpenAGI",
             "stars": 2283
-          }
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "eumemic",
             "repo": "ai-legion",
             "stars": 1435
-          }
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "muellerberndt",
             "repo": "mini-agi",
             "stars": 2899
-          }
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "Josh-XT",
             "repo": "AGiXT",
             "stars": 3214
-          }
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "vitalops",
             "repo": "openvibe",
             "stars": 1450
-          }
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "ElricLiu",
             "repo": "AutoGPT-Next-Web",
             "stars": 3001
-          }
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "IntelligenzaArtificiale",
             "repo": "Free-Auto-GPT",
             "stars": 2527
-          }
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "opencog",
             "repo": "opencog",
             "stars": 2476
-          }
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "muellerberndt",
             "repo": "mini-agi",
             "stars": 2899
-          }
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -312,11 +332,12 @@
             "archived": false,
             "id": 615928156,
             "language": null,
-            "last_commit": "2026-08-27T21:08:29Z",
+            "last_commit": "2026-08-28T19:24:45Z",
             "owner": "enricoros",
             "repo": "big-AGI",
-            "stars": 7103
-          }
+            "stars": 7106
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "melih-unsal",
             "repo": "DemoGPT",
             "stars": 1905
-          }
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "EmbraceAGI",
             "repo": "LocalAGI",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         }
       ],
       "title": "Frameworks and Platforms"
@@ -366,8 +389,9 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22002
-          }
+            "stars": 22010
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -381,8 +405,9 @@
             "last_commit": "2026-08-26T00:34:11Z",
             "owner": "a16z-infra",
             "repo": "ai-town",
-            "stars": 10397
-          }
+            "stars": 10405
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -396,8 +421,9 @@
             "last_commit": "2025-05-14T10:15:10Z",
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 55118
-          }
+            "stars": 55117
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -411,8 +437,9 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70069
-          }
+            "stars": 70088
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -426,8 +453,9 @@
             "last_commit": "2026-08-27T19:34:56Z",
             "owner": "assafelovic",
             "repo": "gpt-researcher",
-            "stars": 29175
-          }
+            "stars": 29187
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -441,8 +469,9 @@
             "last_commit": "2024-03-01T15:17:16Z",
             "owner": "run-llama",
             "repo": "llama-hub",
-            "stars": 3463
-          }
+            "stars": 3462
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -453,11 +482,12 @@
             "archived": false,
             "id": 605673387,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:17:20Z",
+            "last_commit": "2026-08-28T04:04:24Z",
             "owner": "labring",
             "repo": "FastGPT",
-            "stars": 29490
-          }
+            "stars": 29494
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         },
         {
           "node_type": "item",
@@ -471,8 +501,9 @@
             "last_commit": "2026-04-15T11:59:09Z",
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 60657
-          }
+            "stars": 60676
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
         }
       ],
       "title": "Agents"
@@ -493,14 +524,15 @@
             "repo": "awesome-agi-cocosci",
             "stars": 395
           },
-          "title": "awesome-agi-cocosci"
+          "title": "awesome-agi-cocosci",
+          "first_seen": "2026-08-28T22:14:19.570Z"
         }
       ],
       "title": "Papers, Dataset, Blogs, Courses and Lectures"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:12:47.994Z",
+    "last_updated": "2026-08-28T22:14:19.570Z",
     "original_repository_info": {
       "archived": false,
       "id": 627646824,
