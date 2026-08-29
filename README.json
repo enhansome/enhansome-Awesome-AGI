@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+            "homepage": "https://agpt.co",
             "id": 614765452,
             "language": "Python",
-            "last_commit": "2026-08-28T19:28:51Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:02:30Z",
+            "open_issues": 517,
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186963
+            "stars": 186964,
+            "topics": [
+              "agentic-ai",
+              "agents",
+              "ai",
+              "artificial-intelligence",
+              "autonomous-agents",
+              "claude",
+              "gpt",
+              "llama-api",
+              "llm",
+              "openai",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -26,12 +43,33 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+            "homepage": "https://agentgpt.reworkd.ai",
             "id": 624681066,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-29T01:19:32Z",
+            "open_issues": 219,
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36302
+            "stars": 36302,
+            "topics": [
+              "agent",
+              "agentgpt",
+              "agents",
+              "agi",
+              "ai",
+              "ai-agents",
+              "autogpt",
+              "baby-agi",
+              "gpt",
+              "langchain",
+              "llm",
+              "next",
+              "openai",
+              "t3",
+              "t3-stack"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -42,12 +80,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+            "homepage": "https://atoms.dev/",
             "id": 660551251,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-21T10:12:33Z",
+            "open_issues": 135,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70088
+            "stars": 70090,
+            "topics": [
+              "agent",
+              "gpt",
+              "llm",
+              "metagpt",
+              "multi-agent"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -58,12 +107,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)",
+            "homepage": "https://minigpt-4.github.io",
             "id": 628419800,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-09-02T09:07:21Z",
+            "open_issues": 376,
             "owner": "Vision-CAIR",
             "repo": "MiniGPT-4",
-            "stars": 25625
+            "stars": 25625,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -74,12 +128,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf",
+            "homepage": null,
             "id": 621118467,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
+            "open_issues": 4025,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25212
+            "stars": 25213,
+            "topics": [
+              "deep-learning",
+              "platform",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -90,12 +153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://babyagi.org/",
             "id": 622737738,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-31T05:05:45Z",
+            "open_issues": 29,
             "owner": "yoheinakajima",
             "repo": "babyagi",
-            "stars": 22357
+            "stars": 22356,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -106,12 +174,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+            "homepage": "https://superagi.com/",
             "id": 640182997,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-22T22:14:07Z",
+            "open_issues": 264,
             "owner": "TransformerOptimus",
             "repo": "SuperAGI",
-            "stars": 17666
+            "stars": 17667,
+            "topics": [
+              "agents",
+              "agi",
+              "ai",
+              "artificial-general-intelligence",
+              "artificial-intelligence",
+              "autonomous-agents",
+              "gpt-4",
+              "hacktoberfest",
+              "llm",
+              "llmops",
+              "nextjs",
+              "openai",
+              "pinecone",
+              "python",
+              "superagi"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -122,12 +211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the first library to let you embed a developer agent in your own app!",
+            "homepage": "https://twitter.com/SmolModels",
             "id": 640161038,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-07T07:11:03Z",
+            "open_issues": 86,
             "owner": "smol-ai",
             "repo": "developer",
-            "stars": 12186
+            "stars": 12186,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -138,12 +232,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Plugins for Auto-GPT",
+            "homepage": null,
             "id": 625411260,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-29T13:45:09Z",
+            "open_issues": 65,
             "owner": "Significant-Gravitas",
             "repo": "Auto-GPT-Plugins",
-            "stars": 3827
+            "stars": 3827,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -154,12 +253,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auto-GPT on the browser",
+            "homepage": "https://autogptjs.com",
             "id": 623276552,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-08-16T23:00:25Z",
+            "open_issues": 7,
             "owner": "zabirauf",
             "repo": "AutoGPT.js",
-            "stars": 1024
+            "stars": 1024,
+            "topics": [
+              "autogpt",
+              "gpt",
+              "gpt-4",
+              "gpt3",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -170,12 +280,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A graphical user interface for AutoGPT",
+            "homepage": null,
             "id": 626564762,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-06-13T22:16:04Z",
+            "open_issues": 16,
             "owner": "thecookingsenpai",
             "repo": "autogpt-gui",
-            "stars": 1500
+            "stars": 1500,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -186,12 +301,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenAGI: When LLM Meets Domain Experts",
+            "homepage": "https://docs.aios.foundation",
             "id": 625084397,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-28T15:48:29Z",
+            "open_issues": 10,
             "owner": "agiresearch",
             "repo": "OpenAGI",
-            "stars": 2283
+            "stars": 2283,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -202,12 +322,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An LLM-powered autonomous agent platform",
+            "homepage": null,
             "id": 626121747,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-05-27T23:52:06Z",
+            "open_issues": 9,
             "owner": "eumemic",
             "repo": "ai-legion",
-            "stars": 1435
+            "stars": 1435,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -218,12 +343,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MiniAGI is a simple general-purpose AI agent based on the OpenAI API.",
+            "homepage": null,
             "id": 627744002,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-14T05:47:59Z",
+            "open_issues": 10,
             "owner": "muellerberndt",
             "repo": "mini-agi",
-            "stars": 2899
+            "stars": 2899,
+            "topics": [
+              "agent",
+              "agi",
+              "artificial-intelligence",
+              "gpt-3",
+              "gpt-4"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -234,12 +370,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.",
+            "homepage": "https://AGiXT.com",
             "id": 629177820,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-28T05:57:41Z",
+            "open_issues": 4,
             "owner": "Josh-XT",
             "repo": "AGiXT",
-            "stars": 3214
+            "stars": 3214,
+            "topics": [
+              "agent-llm",
+              "agi",
+              "agixt",
+              "ai",
+              "artificial",
+              "automation",
+              "chromadb",
+              "intelligence",
+              "llama",
+              "llamacpp",
+              "llm",
+              "llmops",
+              "openai",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -250,12 +406,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modular Auto-GPT Framework",
+            "homepage": null,
             "id": 628087446,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-03T09:29:12Z",
+            "open_issues": 31,
             "owner": "vitalops",
             "repo": "openvibe",
-            "stars": 1450
+            "stars": 1450,
+            "topics": [
+              "chatgpt",
+              "gpt",
+              "gpt4",
+              "llms"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -266,12 +432,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用",
+            "homepage": "https://auto-agentgpt.com",
             "id": 628250345,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-10T19:36:24Z",
+            "open_issues": 33,
             "owner": "ElricLiu",
             "repo": "AutoGPT-Next-Web",
-            "stars": 3001
+            "stars": 3001,
+            "topics": [
+              "auto-gpt",
+              "connect-ai",
+              "docker",
+              "docker-compose",
+              "langchangjs",
+              "llm",
+              "nextjs",
+              "openai",
+              "react",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -282,12 +464,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone. ",
+            "homepage": null,
             "id": 629860517,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-19T00:18:00Z",
+            "open_issues": 33,
             "owner": "IntelligenzaArtificiale",
             "repo": "Free-Auto-GPT",
-            "stars": 2527
+            "stars": 2526,
+            "topics": [
+              "ai",
+              "auto-gpt",
+              "autogpt",
+              "autogpt-no-paid-api",
+              "chatgpt",
+              "chatgpt-api",
+              "chatgpt-free",
+              "democratize-ai",
+              "free-autogpt",
+              "gpt-4",
+              "gpt-4-api",
+              "gpt4",
+              "open-source-auto-gpt",
+              "open-source-gpt",
+              "openai",
+              "python",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -298,12 +503,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI)",
+            "homepage": "http://wiki.opencog.org/w/Development",
             "id": 6365343,
             "language": "Scheme",
+            "license": "NOASSERTION",
             "last_commit": "2025-08-26T11:35:50Z",
+            "open_issues": 49,
             "owner": "opencog",
             "repo": "opencog",
-            "stars": 2476
+            "stars": 2476,
+            "topics": [
+              "agi",
+              "learning",
+              "learning-algorithm",
+              "natural-language",
+              "natural-language-inference",
+              "natural-language-understanding",
+              "robot-controller",
+              "robotics",
+              "unsupervised-learning",
+              "unsupervised-learning-algorithms",
+              "unsupervised-machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -314,12 +536,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MiniAGI is a simple general-purpose AI agent based on the OpenAI API.",
+            "homepage": null,
             "id": 627744002,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-14T05:47:59Z",
+            "open_issues": 10,
             "owner": "muellerberndt",
             "repo": "mini-agi",
-            "stars": 2899
+            "stars": 2899,
+            "topics": [
+              "agent",
+              "agi",
+              "artificial-intelligence",
+              "gpt-3",
+              "gpt-4"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -330,12 +563,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.",
+            "homepage": "https://big-agi.com",
             "id": 615928156,
             "language": null,
-            "last_commit": "2026-08-28T19:24:45Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:18:04Z",
+            "open_issues": 166,
             "owner": "enricoros",
             "repo": "big-AGI",
-            "stars": 7106
+            "stars": 7106,
+            "topics": [
+              "agi",
+              "ai-agents",
+              "ai-suite",
+              "ai-workspace",
+              "anthropic-api",
+              "deepseek-api",
+              "gemini-api",
+              "gpt",
+              "gpt-5",
+              "librechat",
+              "multi-modal",
+              "multi-model",
+              "nano-banana",
+              "openai-responses-api",
+              "openwebui",
+              "perplexity-api",
+              "sonnet-4-5",
+              "xai-api"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -346,12 +603,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 Create LLM agents in a second with your prompts. Everything you need to create an LLM Agent - tools, prompts, frameworks, and models - all in one place.",
+            "homepage": null,
             "id": 650549146,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-01T12:30:12Z",
+            "open_issues": 10,
             "owner": "melih-unsal",
             "repo": "DemoGPT",
-            "stars": 1905
+            "stars": 1905,
+            "topics": [
+              "agent",
+              "agents",
+              "ai",
+              "artificial-intelligence",
+              "autogpt",
+              "autonomous-agents",
+              "chatgpt",
+              "chatgpt-api",
+              "deepseek",
+              "demo",
+              "gpt-4",
+              "langchain",
+              "langchain-app",
+              "langchain-python",
+              "llms",
+              "o1",
+              "openai",
+              "python",
+              "streamlit",
+              "streamlit-application"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -362,12 +645,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LocalAGI：Locally run AGI powered by LLaMA, ChatGLM and more. ｜ 基于 ChatGLM, LLaMA 大模型的本地运行的 AGI ",
+            "homepage": null,
             "id": 655116814,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-25T10:28:23Z",
+            "open_issues": 2,
             "owner": "EmbraceAGI",
             "repo": "LocalAGI",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "agi",
+              "ai",
+              "autonomous-agents",
+              "chatglm-6b",
+              "llamacpp",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         }
@@ -384,12 +679,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generative Agents: Interactive Simulacra of Human Behavior",
+            "homepage": null,
             "id": 669727723,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-08-05T21:38:56Z",
+            "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22010
+            "stars": 22012,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -400,12 +700,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
+            "homepage": "https://convex.dev/ai-town",
             "id": 666931247,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T00:34:11Z",
+            "open_issues": 71,
             "owner": "a16z-infra",
             "repo": "ai-town",
-            "stars": 10405
+            "stars": 10404,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -416,12 +721,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CLI platform to experiment with codegen. Precursor to: https://lovable.dev",
+            "homepage": null,
             "id": 634224458,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-14T10:15:10Z",
+            "open_issues": 70,
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 55117
+            "stars": 55118,
+            "topics": [
+              "ai",
+              "autonomous-agent",
+              "code-generation",
+              "codebase-generation",
+              "codegen",
+              "coding-assistant",
+              "gpt-4",
+              "gpt-engineer",
+              "openai",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -432,12 +753,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+            "homepage": "https://atoms.dev/",
             "id": 660551251,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-21T10:12:33Z",
+            "open_issues": 135,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70088
+            "stars": 70090,
+            "topics": [
+              "agent",
+              "gpt",
+              "llm",
+              "metagpt",
+              "multi-agent"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -448,12 +780,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+            "homepage": "https://gptr.dev",
             "id": 639835356,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:34:56Z",
+            "open_issues": 58,
             "owner": "assafelovic",
             "repo": "gpt-researcher",
-            "stars": 29187
+            "stars": 29190,
+            "topics": [
+              "agent",
+              "ai",
+              "automation",
+              "deepresearch",
+              "llms",
+              "mcp",
+              "mcp-server",
+              "python",
+              "research",
+              "search",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -464,12 +813,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain",
+            "homepage": "https://llamahub.ai/",
             "id": 595934487,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-03-01T15:17:16Z",
+            "open_issues": 96,
             "owner": "run-llama",
             "repo": "llama-hub",
-            "stars": 3462
+            "stars": 3462,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -480,12 +834,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+            "homepage": "https://fastgpt.io",
             "id": 605673387,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T04:04:24Z",
+            "open_issues": 174,
             "owner": "labring",
             "repo": "FastGPT",
-            "stars": 29494
+            "stars": 29495,
+            "topics": [
+              "agent",
+              "claude",
+              "deepseek",
+              "llm",
+              "mcp",
+              "nextjs",
+              "openai",
+              "qwen",
+              "rag",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         },
@@ -496,12 +866,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A programming framework for agentic AI",
+            "homepage": "https://microsoft.github.io/autogen/",
             "id": 680120071,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-04-15T11:59:09Z",
+            "open_issues": 992,
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 60676
+            "stars": 60680,
+            "topics": [
+              "agentic",
+              "agentic-agi",
+              "agents",
+              "ai",
+              "autogen",
+              "autogen-ecosystem",
+              "chatgpt",
+              "framework",
+              "llm-agent",
+              "llm-framework"
+            ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
         }
@@ -517,12 +903,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.",
+            "homepage": null,
             "id": 295095715,
             "language": "TeX",
+            "license": "CC0-1.0",
             "last_commit": "2026-04-04T00:47:09Z",
+            "open_issues": 1,
             "owner": "SHI-Yu-Zhe",
             "repo": "awesome-agi-cocosci",
-            "stars": 395
+            "stars": 395,
+            "topics": [
+              "abduction",
+              "analogy",
+              "artificial-general-intelligence",
+              "awesome",
+              "awesome-list",
+              "bayesian",
+              "commonsense",
+              "computational-cognitive-science",
+              "developmental-psychology",
+              "explainable-ai",
+              "general-pattern-theory",
+              "hybrid-system",
+              "intuitive-physics",
+              "language-of-thought",
+              "logic-programming",
+              "mind-simulation",
+              "planning",
+              "pragmatics",
+              "scientific-discovery",
+              "theory-of-mind"
+            ]
           },
           "title": "awesome-agi-cocosci",
           "first_seen": "2026-08-28T22:14:19.570Z"
@@ -532,15 +944,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:14:19.570Z",
+    "last_updated": "2026-08-29T04:45:07.167Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome AGI frameworks, software and resources",
+      "homepage": null,
       "id": 627646824,
       "language": null,
+      "license": "MIT",
       "last_commit": "2023-09-27T00:01:07Z",
+      "open_issues": 2,
       "owner": "EmbraceAGI",
       "repo": "Awesome-AGI",
-      "stars": 574
+      "stars": 574,
+      "topics": [
+        "agi",
+        "artificial-general-intelligence",
+        "artificial-intelligence",
+        "autogpt",
+        "autonomous-agents",
+        "awesome",
+        "awesome-agi",
+        "awesome-list",
+        "chatgpt",
+        "deep-learning",
+        "gpt",
+        "gpt4",
+        "gpt5",
+        "llms"
+      ]
     },
     "original_repository_sha": "4d4f094c6693b45e11e28a8f53be765d841a9b6a",
     "enhanced_repository": "enhansome/enhansome-Awesome-AGI",
