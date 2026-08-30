@@ -1,6 +1,460 @@
 {
   "items": [
     {
+      "description": "Refreshed 2026-08. The 2023 \"AutoGPT wave\" below is kept as history; this is what the field actually runs on now. For a fuller, bilingual list see Awesome-AGI-Agents and awesome-chatgpt-zh.\nFrontier models (2026)\nAgent harnesses & autonomous agents (2026)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepSeek-V4 (Pro / Flash)",
+          "description": "DeepSeek HuggingFace Open weights, 1M context; see DeepSeek guide",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀",
+            "homepage": null,
+            "id": 616751895,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-30T01:24:18Z",
+            "open_issues": 0,
+            "owner": "EmbraceAGI",
+            "repo": "awesome-chatgpt-zh",
+            "stars": 11669,
+            "topics": [
+              "agi",
+              "ai",
+              "awesome",
+              "awesome-list",
+              "chat-gpt",
+              "chatglm",
+              "chatgpt",
+              "chatgpt3",
+              "chatgpt35-turbo",
+              "claude",
+              "deeplearning",
+              "gpt",
+              "gpt-4",
+              "langchain",
+              "openai",
+              "openai-chatgpt",
+              "prompt",
+              "prompt-engineering",
+              "tools"
+            ]
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Kimi K3",
+          "description": "Moonshot AI GitHub Jul 2026 open-weight 2.8T native multimodal agentic model, 1M context",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open Frontier Intelligence",
+            "homepage": null,
+            "id": 1313576395,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-06T10:17:28Z",
+            "open_issues": 28,
+            "owner": "MoonshotAI",
+            "repo": "Kimi-K3",
+            "stars": 8665,
+            "topics": []
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen3.8",
+          "description": "Alibaba GitHub Aug 2026, first Qwen-Max-class open release",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Qwen3.8 is the large language model series developed by Qwen team, Alibaba Group.",
+            "homepage": "https://qwen.ai",
+            "id": 1054623307,
+            "language": null,
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-17T05:17:40Z",
+            "open_issues": 15,
+            "owner": "QwenLM",
+            "repo": "Qwen3.8",
+            "stars": 4020,
+            "topics": []
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Claude Code",
+          "description": "Anthropic's terminal agent: plans, edits, runs and verifies code in your repo Skills, hooks, MCP, subagents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+            "homepage": "https://code.claude.com/docs/en/overview",
+            "id": 937253475,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-08-28T18:19:32Z",
+            "open_issues": 15489,
+            "owner": "anthropics",
+            "repo": "claude-code",
+            "stars": 143460,
+            "topics": []
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Codex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Lightweight coding agent that runs in your terminal",
+            "homepage": null,
+            "id": 965415649,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-30T14:05:37Z",
+            "open_issues": 14497,
+            "owner": "openai",
+            "repo": "codex",
+            "stars": 120032,
+            "topics": []
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Companion: codex-security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+            "homepage": "https://developers.openai.com/codex/security",
+            "id": 1299769220,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-30T16:28:23Z",
+            "open_issues": 196,
+            "owner": "openai",
+            "repo": "codex-security",
+            "stars": 10275,
+            "topics": [
+              "ai-security",
+              "application-security",
+              "cli",
+              "code-scanning",
+              "codex",
+              "codex-security",
+              "cybersecurity",
+              "devsecops",
+              "nodejs",
+              "npm",
+              "openai",
+              "sdk",
+              "security",
+              "typescript",
+              "vulnerability-scanning"
+            ]
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
+        },
+        {
+          "node_type": "item",
+          "title": "deepseek-harness (dsh)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "DeepSeek Harness: Everything is a Plugin.",
+            "homepage": "https://deepseek.com/harness",
+            "id": 1333065091,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-30T13:52:13Z",
+            "open_issues": 0,
+            "owner": "deepseek-ai",
+            "repo": "deepseek-harness",
+            "stars": 204454,
+            "topics": [
+              "ai-agents",
+              "cordis",
+              "dsh",
+              "dsh-plugin"
+            ]
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Aug 2026; plugin ecosystem: awesome-dsh-plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+            "homepage": "https://awesome-dsh-plugin.com",
+            "id": 1333175049,
+            "language": "Python",
+            "license": "CC0-1.0",
+            "last_commit": "2026-08-30T15:50:30Z",
+            "open_issues": 305,
+            "owner": "awesome-dsh-plugin",
+            "repo": "awesome-dsh-plugin",
+            "stars": 13688,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deepseek-harness",
+              "dsh",
+              "dsh-plugin"
+            ]
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Grok Build",
+          "description": "xAI's full-screen TUI coding agent (Rust) Headless / CI mode, ACP editor embedding",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+            "homepage": null,
+            "id": 1300902838,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T16:56:33Z",
+            "open_issues": 0,
+            "owner": "xai-org",
+            "repo": "grok-build",
+            "stars": 26250,
+            "topics": []
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenHands",
+          "description": "Open platform for autonomous software-engineering agents formerly OpenDevin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "homepage": "https://openhands.dev",
+            "id": 771302083,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-30T12:55:31Z",
+            "open_issues": 604,
+            "owner": "OpenHands",
+            "repo": "OpenHands",
+            "stars": 85637,
+            "topics": [
+              "agent",
+              "artificial-intelligence",
+              "chatgpt",
+              "claude-ai",
+              "cli",
+              "developer-tools",
+              "gpt",
+              "llm",
+              "openai"
+            ]
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Hermes Agent",
+          "description": "Nous Research's self-evolving personal agent —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The agent that grows with you",
+            "homepage": "https://hermes-agent.nousresearch.com",
+            "id": 1024554267,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-30T16:04:00Z",
+            "open_issues": 37740,
+            "owner": "NousResearch",
+            "repo": "hermes-agent",
+            "stars": 238412,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "claude",
+              "claude-code",
+              "codex",
+              "hermes",
+              "hermes-agent",
+              "llm",
+              "nous-research",
+              "openai"
+            ]
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenClaw",
+          "description": "Self-hosted personal AI assistant reachable from WhatsApp / Telegram / Discord / Slack —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+            "homepage": "https://openclaw.ai",
+            "id": 1103012935,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-30T16:35:51Z",
+            "open_issues": 5743,
+            "owner": "openclaw",
+            "repo": "openclaw",
+            "stars": 388066,
+            "topics": [
+              "ai",
+              "assistant",
+              "crustacean",
+              "molty",
+              "openclaw",
+              "own-your-data",
+              "personal"
+            ]
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenWorker",
+          "description": "Andrew Ng's open desktop \"AI coworker\" that delivers finished work, model-agnostic —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "http://openworker.com",
+            "id": 1306128367,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-30T00:03:32Z",
+            "open_issues": 445,
+            "owner": "andrewyng",
+            "repo": "openworker",
+            "stars": 17032,
+            "topics": []
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MetaGPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+            "homepage": "https://atoms.dev/",
+            "id": 660551251,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-01-21T10:12:33Z",
+            "open_issues": 133,
+            "owner": "FoundationAgents",
+            "repo": "MetaGPT",
+            "stars": 70098,
+            "topics": [
+              "agent",
+              "gpt",
+              "llm",
+              "metagpt",
+              "multi-agent"
+            ]
+          },
+          "first_seen": "2026-08-28T22:14:19.570Z"
+        },
+        {
+          "node_type": "item",
+          "title": "also OpenManus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "No fortress, purely open ground.  OpenManus is Coming.",
+            "homepage": "https://openmanus.github.io/",
+            "id": 943934999,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-22T07:53:07Z",
+            "open_issues": 465,
+            "owner": "FoundationAgents",
+            "repo": "OpenManus",
+            "stars": 58120,
+            "topics": []
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TrueForge",
+          "description": "Open agent runtime: model calls, MCP tools, skills, sandbox, approvals, sessions —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
+            "homepage": "https://trueforge.dev",
+            "id": 1309751899,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-30T12:33:25Z",
+            "open_issues": 88,
+            "owner": "truefoundry",
+            "repo": "trueforge",
+            "stars": 4935,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "agents",
+              "harness",
+              "harness-engineering"
+            ]
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AgentENV",
+          "description": "Large-scale agent environment platform used for Kimi K3 agentic RL Firecracker microVMs, <50ms resume",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+            "homepage": null,
+            "id": 1309451980,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-08-28T02:02:57Z",
+            "open_issues": 61,
+            "owner": "kvcache-ai",
+            "repo": "AgentENV",
+            "stars": 3358,
+            "topics": []
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
+        }
+      ],
+      "title": "2026 Update: Frontier Models & Agent Harnesses"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -15,11 +469,11 @@
             "id": 614765452,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T16:12:48Z",
-            "open_issues": 520,
+            "last_commit": "2026-08-30T09:04:08Z",
+            "open_issues": 522,
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186980,
+            "stars": 187011,
             "topics": [
               "agentic-ai",
               "agents",
@@ -52,7 +506,7 @@
             "open_issues": 219,
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36300,
+            "stars": 36299,
             "topics": [
               "agent",
               "agentgpt",
@@ -86,10 +540,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-01-21T10:12:33Z",
-            "open_issues": 135,
+            "open_issues": 133,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70090,
+            "stars": 70098,
             "topics": [
               "agent",
               "gpt",
@@ -116,7 +570,7 @@
             "open_issues": 376,
             "owner": "Vision-CAIR",
             "repo": "MiniGPT-4",
-            "stars": 25626,
+            "stars": 25625,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
@@ -134,10 +588,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4036,
+            "open_issues": 4043,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25217,
+            "stars": 25216,
             "topics": [
               "deep-learning",
               "platform",
@@ -183,7 +637,7 @@
             "open_issues": 264,
             "owner": "TransformerOptimus",
             "repo": "SuperAGI",
-            "stars": 17669,
+            "stars": 17670,
             "topics": [
               "agents",
               "agi",
@@ -203,6 +657,48 @@
             ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PraisonAI",
+          "description": "Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support, MCP integration, agentic workflows, Python & JS SDKs. docs.praison.ai",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.",
+            "homepage": "https://praison.ai/docs",
+            "id": 774497032,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-30T09:24:13Z",
+            "open_issues": 63,
+            "owner": "MervinPraison",
+            "repo": "PraisonAI",
+            "stars": 8991,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agent-framework",
+              "ai-agent-sdk",
+              "ai-agents",
+              "ai-agents-framework",
+              "ai-agents-sdk",
+              "ai-framwork",
+              "aiagent",
+              "aiagentframework",
+              "aiagents",
+              "aiagentsframework",
+              "framework",
+              "hermes",
+              "hermes-agent",
+              "multi-agent",
+              "multi-agent-system",
+              "multi-agents",
+              "multi-ai-agents",
+              "openclaw"
+            ]
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
         },
         {
           "node_type": "item",
@@ -310,7 +806,7 @@
             "open_issues": 10,
             "owner": "agiresearch",
             "repo": "OpenAGI",
-            "stars": 2283,
+            "stars": 2282,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
@@ -349,7 +845,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2023-06-14T05:47:59Z",
-            "open_issues": 11,
+            "open_issues": 10,
             "owner": "muellerberndt",
             "repo": "mini-agi",
             "stars": 2899,
@@ -379,7 +875,7 @@
             "open_issues": 4,
             "owner": "Josh-XT",
             "repo": "AGiXT",
-            "stars": 3214,
+            "stars": 3213,
             "topics": [
               "agent-llm",
               "agi",
@@ -438,10 +934,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2025-02-10T19:36:24Z",
-            "open_issues": 34,
+            "open_issues": 33,
             "owner": "ElricLiu",
             "repo": "AutoGPT-Next-Web",
-            "stars": 3001,
+            "stars": 3000,
             "topics": [
               "auto-gpt",
               "connect-ai",
@@ -542,7 +1038,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2023-06-14T05:47:59Z",
-            "open_issues": 11,
+            "open_issues": 10,
             "owner": "muellerberndt",
             "repo": "mini-agi",
             "stars": 2899,
@@ -568,11 +1064,11 @@
             "id": 615928156,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-08-29T01:18:04Z",
-            "open_issues": 166,
+            "last_commit": "2026-08-30T09:04:07Z",
+            "open_issues": 167,
             "owner": "enricoros",
             "repo": "big-AGI",
-            "stars": 7106,
+            "stars": 7107,
             "topics": [
               "agi",
               "ai-agents",
@@ -609,7 +1105,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-04-01T12:30:12Z",
-            "open_issues": 11,
+            "open_issues": 10,
             "owner": "melih-unsal",
             "repo": "DemoGPT",
             "stars": 1905,
@@ -665,6 +1161,48 @@
             ]
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Agentfield",
+          "description": "Kubernetes-style control plane for deploying AI agents as distributed microservices, with built-in service discovery, durable workflows, and observability. AI Agent 分布式部署控制平面",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Build, run and scale AI agents like API and microservices",
+            "homepage": "http://www.agentfield.ai",
+            "id": 1089925776,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-30T13:58:31Z",
+            "open_issues": 44,
+            "owner": "Agent-Field",
+            "repo": "agentfield",
+            "stars": 2539,
+            "topics": [
+              "agent",
+              "agent-auth",
+              "agent-authentication",
+              "agent-indentity",
+              "agent-scaling",
+              "agentic-ai",
+              "ai",
+              "ai-backend",
+              "aiagent",
+              "anthropic",
+              "cloud-native",
+              "genai",
+              "go",
+              "kubernetes",
+              "llm",
+              "multiagent",
+              "multiagent-systems",
+              "python",
+              "rag",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-08-30T16:36:46.601Z"
         }
       ],
       "title": "Frameworks and Platforms"
@@ -688,7 +1226,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22017,
+            "stars": 22020,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
@@ -709,7 +1247,7 @@
             "open_issues": 71,
             "owner": "a16z-infra",
             "repo": "ai-town",
-            "stars": 10407,
+            "stars": 10413,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
@@ -730,7 +1268,7 @@
             "open_issues": 70,
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 55116,
+            "stars": 55113,
             "topics": [
               "ai",
               "autonomous-agent",
@@ -759,10 +1297,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-01-21T10:12:33Z",
-            "open_issues": 135,
+            "open_issues": 133,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70090,
+            "stars": 70098,
             "topics": [
               "agent",
               "gpt",
@@ -786,10 +1324,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:34:56Z",
-            "open_issues": 59,
+            "open_issues": 61,
             "owner": "assafelovic",
             "repo": "gpt-researcher",
-            "stars": 29199,
+            "stars": 29206,
             "topics": [
               "agent",
               "ai",
@@ -839,11 +1377,11 @@
             "id": 605673387,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T13:50:43Z",
-            "open_issues": 173,
+            "last_commit": "2026-08-30T14:25:42Z",
+            "open_issues": 172,
             "owner": "labring",
             "repo": "FastGPT",
-            "stars": 29497,
+            "stars": 29499,
             "topics": [
               "agent",
               "claude",
@@ -872,10 +1410,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-04-15T11:59:09Z",
-            "open_issues": 996,
+            "open_issues": 999,
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 60689,
+            "stars": 60703,
             "topics": [
               "agentic",
               "agentic-agi",
@@ -944,7 +1482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T16:40:20.322Z",
+    "last_updated": "2026-08-30T16:36:46.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AGI frameworks, software and resources",
@@ -952,8 +1490,8 @@
       "id": 627646824,
       "language": null,
       "license": "MIT",
-      "last_commit": "2023-09-27T00:01:07Z",
-      "open_issues": 2,
+      "last_commit": "2026-08-30T02:22:52Z",
+      "open_issues": 1,
       "owner": "EmbraceAGI",
       "repo": "Awesome-AGI",
       "stars": 574,
@@ -974,7 +1512,7 @@
         "llms"
       ]
     },
-    "original_repository_sha": "4d4f094c6693b45e11e28a8f53be765d841a9b6a",
+    "original_repository_sha": "8d208dd0149346ab0589e657411c9ac2a63e37d4",
     "enhanced_repository": "enhansome/enhansome-Awesome-AGI",
     "enhanced_repository_description": null,
     "title": "Awesome AGI Resources with stars"
