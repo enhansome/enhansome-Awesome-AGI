@@ -15,11 +15,11 @@
             "id": 616751895,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-25T01:22:58Z",
-            "open_issues": 76,
+            "last_commit": "2026-11-26T01:22:35Z",
+            "open_issues": 79,
             "owner": "EmbraceAGI",
             "repo": "awesome-chatgpt-zh",
-            "stars": 11882,
+            "stars": 11886,
             "topics": [
               "agi",
               "ai",
@@ -60,7 +60,7 @@
             "open_issues": 34,
             "owner": "MoonshotAI",
             "repo": "Kimi-K3",
-            "stars": 9126,
+            "stars": 9132,
             "topics": []
           },
           "first_seen": "2026-08-30T16:36:46.601Z"
@@ -81,7 +81,7 @@
             "open_issues": 9,
             "owner": "QwenLM",
             "repo": "Qwen3.8",
-            "stars": 4473,
+            "stars": 4479,
             "topics": []
           },
           "first_seen": "2026-08-30T16:36:46.601Z"
@@ -98,11 +98,11 @@
             "id": 937253475,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-25T20:43:41Z",
-            "open_issues": 16279,
+            "last_commit": "2026-11-26T21:07:48Z",
+            "open_issues": 16484,
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 157065,
+            "stars": 157206,
             "topics": []
           },
           "first_seen": "2026-08-30T16:36:46.601Z"
@@ -119,11 +119,11 @@
             "id": 965415649,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T19:46:24Z",
-            "open_issues": 28654,
+            "last_commit": "2026-11-26T21:09:08Z",
+            "open_issues": 28746,
             "owner": "openai",
             "repo": "codex",
-            "stars": 136444,
+            "stars": 136578,
             "topics": []
           },
           "first_seen": "2026-08-30T16:36:46.601Z"
@@ -140,11 +140,11 @@
             "id": 1299769220,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T09:12:54Z",
-            "open_issues": 216,
+            "last_commit": "2026-11-26T19:38:35Z",
+            "open_issues": 220,
             "owner": "openai",
             "repo": "codex-security",
-            "stars": 14366,
+            "stars": 14408,
             "topics": [
               "ai-security",
               "application-security",
@@ -181,7 +181,7 @@
             "open_issues": 0,
             "owner": "deepseek-ai",
             "repo": "deepseek-harness",
-            "stars": 287012,
+            "stars": 287580,
             "topics": [
               "ai-agents",
               "cordis",
@@ -203,11 +203,11 @@
             "id": 1333175049,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-25T19:45:56Z",
-            "open_issues": 428,
+            "last_commit": "2026-11-26T19:54:41Z",
+            "open_issues": 439,
             "owner": "awesome-dsh-plugin",
             "repo": "awesome-dsh-plugin",
-            "stars": 25641,
+            "stars": 25702,
             "topics": [
               "awesome",
               "awesome-list",
@@ -234,7 +234,7 @@
             "open_issues": 0,
             "owner": "xai-org",
             "repo": "grok-build",
-            "stars": 27855,
+            "stars": 27863,
             "topics": []
           },
           "first_seen": "2026-08-30T16:36:46.601Z"
@@ -251,11 +251,11 @@
             "id": 771302083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T21:03:52Z",
-            "open_issues": 1253,
+            "last_commit": "2026-11-26T15:13:01Z",
+            "open_issues": 1270,
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 94334,
+            "stars": 94411,
             "topics": [
               "agent",
               "artificial-intelligence",
@@ -282,11 +282,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-25T21:12:50Z",
-            "open_issues": 54532,
+            "last_commit": "2026-11-26T21:23:20Z",
+            "open_issues": 54645,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 266090,
+            "stars": 266363,
             "topics": [
               "ai",
               "ai-agent",
@@ -317,11 +317,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T21:33:43Z",
-            "open_issues": 9197,
+            "last_commit": "2026-11-26T21:24:50Z",
+            "open_issues": 9260,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 395203,
+            "stars": 395294,
             "topics": [
               "ai",
               "assistant",
@@ -347,10 +347,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-25T11:13:09Z",
-            "open_issues": 443,
+            "open_issues": 444,
             "owner": "andrewyng",
             "repo": "openworker",
-            "stars": 19599,
+            "stars": 19617,
             "topics": []
           },
           "first_seen": "2026-08-30T16:36:46.601Z"
@@ -368,10 +368,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-01-21T10:12:33Z",
-            "open_issues": 173,
+            "open_issues": 167,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 71476,
+            "stars": 71493,
             "topics": [
               "agent",
               "gpt",
@@ -398,7 +398,7 @@
             "open_issues": 465,
             "owner": "FoundationAgents",
             "repo": "OpenManus",
-            "stars": 59032,
+            "stars": 59045,
             "topics": []
           },
           "first_seen": "2026-08-30T16:36:46.601Z"
@@ -415,11 +415,11 @@
             "id": 1309751899,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T17:41:04Z",
-            "open_issues": 117,
+            "last_commit": "2026-11-26T19:14:32Z",
+            "open_issues": 110,
             "owner": "truefoundry",
             "repo": "trueforge",
-            "stars": 6641,
+            "stars": 6647,
             "topics": [
               "agent",
               "agentic-ai",
@@ -443,11 +443,11 @@
             "id": 1309451980,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-25T15:59:05Z",
-            "open_issues": 126,
+            "last_commit": "2026-11-26T19:18:31Z",
+            "open_issues": 127,
             "owner": "kvcache-ai",
             "repo": "AgentENV",
-            "stars": 3784,
+            "stars": 3788,
             "topics": []
           },
           "first_seen": "2026-08-30T16:36:46.601Z"
@@ -468,7 +468,7 @@
             "open_issues": 7,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 822,
+            "stars": 825,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -512,11 +512,11 @@
             "id": 614765452,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T20:32:27Z",
-            "open_issues": 858,
+            "last_commit": "2026-11-26T18:33:01Z",
+            "open_issues": 807,
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 188189,
+            "stars": 188204,
             "topics": [
               "agentic-ai",
               "agents",
@@ -549,7 +549,7 @@
             "open_issues": 219,
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36268,
+            "stars": 36271,
             "topics": [
               "agent",
               "agentgpt",
@@ -583,10 +583,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-01-21T10:12:33Z",
-            "open_issues": 173,
+            "open_issues": 167,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 71476,
+            "stars": 71493,
             "topics": [
               "agent",
               "gpt",
@@ -631,10 +631,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4335,
+            "open_issues": 4339,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25780,
+            "stars": 25787,
             "topics": [
               "deep-learning",
               "platform",
@@ -659,7 +659,7 @@
             "open_issues": 31,
             "owner": "yoheinakajima",
             "repo": "babyagi",
-            "stars": 22362,
+            "stars": 22363,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
@@ -677,10 +677,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-01-22T22:14:07Z",
-            "open_issues": 271,
+            "open_issues": 270,
             "owner": "TransformerOptimus",
             "repo": "SuperAGI",
-            "stars": 17756,
+            "stars": 17758,
             "topics": [
               "agents",
               "agi",
@@ -713,11 +713,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-25T21:33:03Z",
-            "open_issues": 150,
+            "last_commit": "2026-11-25T23:06:38Z",
+            "open_issues": 142,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9383,
+            "stars": 9385,
             "topics": [
               "agents",
               "ai",
@@ -758,7 +758,7 @@
             "open_issues": 89,
             "owner": "smol-ai",
             "repo": "developer",
-            "stars": 12162,
+            "stars": 12164,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
@@ -848,7 +848,7 @@
             "open_issues": 10,
             "owner": "agiresearch",
             "repo": "OpenAGI",
-            "stars": 2289,
+            "stars": 2291,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
@@ -890,7 +890,7 @@
             "open_issues": 12,
             "owner": "muellerberndt",
             "repo": "mini-agi",
-            "stars": 2928,
+            "stars": 2929,
             "topics": [
               "agent",
               "agi",
@@ -1010,7 +1010,7 @@
             "open_issues": 33,
             "owner": "IntelligenzaArtificiale",
             "repo": "Free-Auto-GPT",
-            "stars": 2525,
+            "stars": 2526,
             "topics": [
               "ai",
               "auto-gpt",
@@ -1049,7 +1049,7 @@
             "open_issues": 47,
             "owner": "opencog",
             "repo": "opencog",
-            "stars": 2484,
+            "stars": 2485,
             "topics": [
               "agi",
               "learning",
@@ -1082,7 +1082,7 @@
             "open_issues": 12,
             "owner": "muellerberndt",
             "repo": "mini-agi",
-            "stars": 2928,
+            "stars": 2929,
             "topics": [
               "agent",
               "agi",
@@ -1106,7 +1106,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-25T06:55:07Z",
-            "open_issues": 188,
+            "open_issues": 189,
             "owner": "enricoros",
             "repo": "big-AGI",
             "stars": 7169,
@@ -1216,10 +1216,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-23T22:56:17Z",
-            "open_issues": 45,
+            "open_issues": 46,
             "owner": "Agent-Field",
             "repo": "agentfield",
-            "stars": 2668,
+            "stars": 2669,
             "topics": [
               "agent",
               "agent-auth",
@@ -1257,11 +1257,11 @@
             "id": 951115072,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T21:32:51Z",
-            "open_issues": 1679,
+            "last_commit": "2026-11-26T21:05:00Z",
+            "open_issues": 1670,
             "owner": "maximhq",
             "repo": "bifrost",
-            "stars": 10031,
+            "stars": 10049,
             "topics": [
               "agent-gateway",
               "ai-gateway",
@@ -1309,7 +1309,7 @@
             "open_issues": 148,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22421,
+            "stars": 22425,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
@@ -1330,7 +1330,7 @@
             "open_issues": 80,
             "owner": "a16z-infra",
             "repo": "ai-town",
-            "stars": 10858,
+            "stars": 10865,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
@@ -1351,7 +1351,7 @@
             "open_issues": 70,
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 54938,
+            "stars": 54937,
             "topics": [
               "ai",
               "autonomous-agent",
@@ -1380,10 +1380,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-01-21T10:12:33Z",
-            "open_issues": 173,
+            "open_issues": 167,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 71476,
+            "stars": 71493,
             "topics": [
               "agent",
               "gpt",
@@ -1407,10 +1407,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-23T14:51:56Z",
-            "open_issues": 28,
+            "open_issues": 31,
             "owner": "assafelovic",
             "repo": "gpt-researcher",
-            "stars": 30907,
+            "stars": 30933,
             "topics": [
               "agent",
               "ai",
@@ -1443,7 +1443,7 @@
             "open_issues": 96,
             "owner": "run-llama",
             "repo": "llama-hub",
-            "stars": 3451,
+            "stars": 3452,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:19.570Z"
@@ -1460,11 +1460,11 @@
             "id": 605673387,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T14:49:22Z",
-            "open_issues": 153,
+            "last_commit": "2026-11-26T16:32:14Z",
+            "open_issues": 143,
             "owner": "labring",
             "repo": "FastGPT",
-            "stars": 30103,
+            "stars": 30108,
             "topics": [
               "agent",
               "claude",
@@ -1493,10 +1493,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-12T10:19:36Z",
-            "open_issues": 1183,
+            "open_issues": 1180,
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 61965,
+            "stars": 61970,
             "topics": [
               "agentic",
               "agentic-agi",
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T21:35:49.571Z",
+    "last_updated": "2026-11-26T21:24:59.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AGI frameworks, software and resources",
@@ -1577,7 +1577,7 @@
       "open_issues": 6,
       "owner": "EmbraceAGI",
       "repo": "Awesome-AGI",
-      "stars": 582,
+      "stars": 583,
       "topics": [
         "agi",
         "artificial-general-intelligence",
